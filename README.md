@@ -1,41 +1,20 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Krishna+Gupta!;" />
-</h1>
 
-<h3 align="center">Turning into a Software Developer!</h3>
 
+### Welcome, I’m Krishna!
+
+Flutter Developer focused on creating cross-platform applications.
 <br/>
+</br>
 
-<div align="center">
- 
- 🔭 I’m currently working on refining my skills.
- 
- 🌱 I’m currently learning about **backend and databases.**
 
-💬 Ask me about **Flutter, Java... or anything [here](https://linkedin.com/in/iamkrishnagupta)**
+#### Quick Introduction
 
- </div>
- 
-<div align="center"> 
-  <a href="mailto:e.krishnagupta@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=yellow" />
-  </a>
-  <a href="https://linkedin.com/in/iamkrishnagupta" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-</div>
+I'm a senior engineering student having experience in contributing to MVP projects for startups and developing solutions in areas like e-learning and social networking during my internships. Proficient in Flutter, Firebase, and state management, I like building and creating things that matter.
 
- <hr/>
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+`Flutter` `Dart`  `Firebase (BAAS)` `MongoDB` `NodeJS` `React` `Java` `Version control`
 <br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,github,flutter,dart,git,c" />
-    <img src="https://skillicons.dev/icons?i=python,firebase,mongodb,java,mysql," /><br>
-</div>
+</br>
+#### I'm open to new opportunities, please feel free to reach out to me at [e.krishnagupta@gmail.com](mailto:e.krishnagupta@gmail.com).
 
-<hr/>
-<h3 align="center">Looking to collaborate with different mindsets.</h3>
-<hr/>
-<br/>
+Or say hello to me on [LinkedIn](https://linkedin.com/in/iamkrishnagupta) or [X (formally Twitter)](https://x.com/krishnagtwts).
 

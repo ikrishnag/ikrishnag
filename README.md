@@ -1,5 +1,3 @@
-<div align="center"> 
-
 ### Welcome, I’m Krishna!
 
 Flutter Developer focused on creating cross-platform applications.
@@ -17,4 +15,3 @@ I'm a senior engineering student having experience in contributing to MVP projec
 
 Or say hello to me on [LinkedIn](https://linkedin.com/in/iamkrishnagupta) or [X (formally Twitter)](https://x.com/krishnagtwts).
 
-</div>

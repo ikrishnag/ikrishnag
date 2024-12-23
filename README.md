@@ -13,5 +13,5 @@ I'm a final-year engineering student having experience in contributing to MVP pr
 
 #### I'm open to new opportunities, please feel free to reach out to me at [e.krishnagupta@gmail.com](mailto:e.krishnagupta@gmail.com).
 
-Or say hello to me on [LinkedIn](https://linkedin.com/in/iamkrishnagupta) or [X (formally Twitter)](https://x.com/krishnagtwts).
+Or say hello to me on [LinkedIn](https://linkedin.com/in/iamkrishnagupta)!
 

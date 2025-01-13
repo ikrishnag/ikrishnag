@@ -1,4 +1,4 @@
-## hey! i'm krishna  
+## hey, i'm krishna!
 a flutter developer focused on creating user-centric solutions.  
 
 
@@ -36,4 +36,6 @@ i'm super curious about new tech and love solving problems that actually matter.
 i’m open to joining a dynamic team. feel free to reach out:  
 
 - **email**: [e.krishnagupta@gmail.com](mailto:e.krishnagupta@gmail.com)  
-- **linkedin**: [say hi to me!](https://linkedin.com/in/ikrishnag)  
+- **linkedin**: [say hi to me!](https://linkedin.com/in/ikrishnag)
+- curious to know more? check out [this little corner](https://krishnagupta.web.app/) where i showcase what i do.  
+

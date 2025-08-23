@@ -1,41 +1,34 @@
-## hey, i'm krishna!
-a flutter developer focused on creating user-centric solutions.  
+# hey, i'm krishna 
+
+i build mobile apps with flutter that humans actually enjoy using.  
+these days i’m at [ambitio](https://ambitio.in), shipping features students actually enjoy using 
 
 
+---
 
-### quick intro  
-i’m a final-year engineering student with experience in developing mvps. during my internships, i have worked on projects in e-learning, social networking, and other domains. i specialize in flutter, firebase, state management, bloc architecture, and building solutions that address real-world challenges.  
+### i work with  
+`flutter` · `dart` · `firebase` · `bloc / provider / riverpod`  
+`git` · `node.js` · `clean architecture`  
 
-### tech stack & tools  
-`flutter` | `dart` | `firebase (baas)` | `mongodb` | `node.js` | `react` | `java` | `git & version control`  
+---
 
-i'm super curious about new tech and love solving problems that actually matter. plus, collaborating with others on game-changing projects is basically the best.
+###  some things i’ve built  
+- [examquery](https://github.com/ikrishnag/examquery) — ai-powered exam prep mvp using flutter + firebase + openai  
+- [flutter product card](https://github.com/ikrishnag/flutter_product_card) — reusable e-commerce card widget, now 500+ downloads  
+- [orderease](https://github.com/ikrishnag/orderease) — restaurant management platform with flutter + node.js  
 
-### featured projects  
+---
 
-<table>  
-  <tr>  
-    <td align="">  
-      <h4><a href="https://github.com/ikrishnag/examquery">examquery</a></h4>  
-      <p>an ai-driven competitive exam preparation app (mvp) built using flutter, dart, firebase, and openai api.</p>  
-    </td>  
-    <td align="">  
-      <h4><a href="https://github.com/ikrishnag/flutter_product_card">flutter product card</a></h4>  
-      <p>a highly customizable and feature-rich flutter package for displaying product cards in e-commerce or shopping applications with 500+ downloads.</p>  
-    </td>  
-    <td align="">  
-      <h4><a href="https://github.com/ikrishnag/orderease">orderease</a></h4>  
-      <p>orderease is designed to streamline the daily operations of restaurants.</p>  
-    </td>  
-  </tr>    
-  </tr>  
-</table>  
+### current focus  
+- making chat & social features as smooth as instagram  
+- going deep into riverpod & clean architecture  
+- sneaking in some gen-ai experiments 👀
 
+---
 
-### let's connect  
-i’m open to joining a dynamic team. feel free to reach out:  
+### find me around the web  
+[linkedin](https://linkedin.com/in/ikrishnag) · [portfolio](https://krishnagupta.web.app) · [email](mailto:e.krishnagupta@gmail.com)  
 
-- **email**: [e.krishnagupta@gmail.com](mailto:e.krishnagupta@gmail.com)  
-- **linkedin**: [say hi to me!](https://linkedin.com/in/ikrishnag)
-- curious to know more? check out [this little corner](https://krishnagupta.web.app/) where i showcase what i do.  
+---
 
+✨ fun fact: i still google basic git commands.  

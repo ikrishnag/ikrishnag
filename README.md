@@ -1,6 +1,6 @@
 # hey, i'm krishna 
 
-i build mobile apps with flutter that humans actually enjoy using.  
+i build mobile apps with flutter.
 these days i’m at [ambitio](https://ambitio.in), shipping features students actually enjoy using 
 
 

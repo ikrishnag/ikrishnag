@@ -32,4 +32,4 @@ these days i’m at [ambitio](https://ambitio.in), shipping features students ac
 
 ---
 
-oh yes! fun fact: i still google basic git commands.  
+###### oh yes, fun fact: i still google basic git commands.  

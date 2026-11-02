@@ -3,8 +3,7 @@
 
 i build mobile apps with flutter.
 
-these days i'm at [ambitio](https://ambitio.club), owning the mobile app end to end. 2,000+ students use it,
-it's live on the [play store](https://play.google.com/store/apps/details?id=com.ambitio.student_app) and [app store](https://apps.apple.com/in/app/ambitio/id6744845723).
+these days i'm at [ambitio](https://ambitio.club), owning the mobile app end to end. 2,000+ students use it, and it's live on the [play store](https://play.google.com/store/apps/details?id=com.ambitio.student_app) and [app store](https://apps.apple.com/in/app/ambitio/id6744845723).
 
 i wrote about two of the harder parts:
 [how the chat stays in sync](https://krishnagupta.web.app/case-ambitio-chat) · [how the calls connect](https://krishnagupta.web.app/case-ambitio-calls)

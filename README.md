@@ -1,7 +1,7 @@
 
 # hey, i'm krishna 
 
-i build mobile apps with flutter.
+i'm a mobile engineer.
 
 these days i'm at [ambitio](https://ambitio.club), owning the mobile app end to end. 2,000+ students use it, and it's live on the [play store](https://play.google.com/store/apps/details?id=com.ambitio.student_app) and [app store](https://apps.apple.com/in/app/ambitio/id6744845723).
 
